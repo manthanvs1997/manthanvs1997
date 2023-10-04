@@ -20,6 +20,6 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 - GitHub: [manthanvs1997](https://github.com/manthanvs1997)
 - LinkedIn: [Manthan Suryawanshi](https://linkedin.com/in/manthan-suryawanshi)
-- Email: [YourEmail@example.com](mailto:manthanvs20@gmail.com)
+- Email: [manthanvs20@gmailcom](mailto:manthanvs20@gmail.com)
 
 Let's connect and build something amazing together! 🚀
